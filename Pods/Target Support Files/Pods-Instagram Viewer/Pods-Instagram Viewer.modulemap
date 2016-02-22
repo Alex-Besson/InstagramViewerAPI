@@ -1,0 +1,6 @@
+framework module Pods_Instagram_Viewer {
+  umbrella header "Pods-Instagram Viewer-umbrella.h"
+
+  export *
+  module * { export * }
+}
